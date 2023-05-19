@@ -1,0 +1,9 @@
+body {
+  font-family: 'Noticia Text', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Noticia Text', serif;
+}

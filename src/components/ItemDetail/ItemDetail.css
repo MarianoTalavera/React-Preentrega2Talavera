@@ -1,0 +1,10 @@
+.contenedorItem {
+    text-align: center;
+    border: 1px solid green;
+    margin: 3rem;
+    background-color: #E3D8D6;
+}
+
+img {
+    width: 400px;
+}
